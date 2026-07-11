@@ -1,0 +1,9 @@
+streamlit==1.39.0
+streamlit-option-menu==0.3.13
+pandas==2.2.3
+openai==1.57.4
+python-dotenv==1.0.1
+azure-kusto-data==4.6.2
+azure-kusto-ingest==4.6.2
+azure-identity==1.19.0
+plotly==5.24.1
